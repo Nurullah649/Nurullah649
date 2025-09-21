@@ -34,7 +34,7 @@
 <div align="center">
 <h3>🏆 GitHub Başarılarım</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DNurullah649%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Nurullah649)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
 </a>
 </div>
 
