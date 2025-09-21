@@ -32,18 +32,13 @@
 </p>
 
 <div align="center">
-<h3>📊 GitHub İstatistiklerim</h3>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNurullah649%26show_icons%3Dtrue%26locale%3Dtr%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Nurullah649 GitHub İstatistikleri" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DNurullah649%26show_icons%3Dtrue%26locale%3Dtr%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Nurullah649 En Çok Kullanılan Diller" />
-<br>
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DNurullah649%26theme%3Dradical%26hide_border%3Dtrue" alt="Nurullah649 GitHub Serisi" />
+<h3>🏆 GitHub Başarılarım</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DNurullah649%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
+</a>
 </div>
 
 <div align="center">
-<h3>🐍 Katkı Grafiği Animasyonu</h3>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Nurullah649/Nurullah649/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Nurullah649/Nurullah649/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Nurullah649/Nurullah649/output/github-contribution-grid-snake.svg">
-</picture>
+<h3>👀 Profil Görüntülenme Sayısı</h3>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DNurullah649%26label%3DProfil%2520G%C3%B6r%C3%BCnt%C3%BClenme%26color%3Dblueviolet%26style%3Dflat-square" alt="Profil Görüntülenme Sayısı" />
 </div>
