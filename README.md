@@ -28,7 +28,7 @@
 
 ### 🚀 Hakkımda
 - 🔭 Şu anda **TÜBİTAK 2209-A** projesi kapsamında **Fizik-Bilgilendirilmiş Transformer VIO** sistemleri üzerinde çalışıyorum.
-- 💼 **ICED** bünyesinde Hukuk alanında **LLM & RAG** tabanlı yapay zeka sistemleri geliştiriyorum.
+- 💼 **ICED** bünyesinde Hukuk alanında **LLM & RAG** tabanlı yapay zeka sistemleri geliştiriyorum,Bu süreçte AWS servislerinden faydalanıyorum.
 - 🌱 **Cyber Agent** projesi ile otonom çoklu model orkestrasyonu (GLM-4v + Qwen) üzerine araştırmalar yapıyorum.
 - 🎓 **CiftciApp** bitirme projesi ile tarım sektörünü yapay zeka ile dijitalleştiriyorum.
 
@@ -55,8 +55,19 @@ Yazılım geliştirme sürecinde kullandığım diller, kütüphaneler ve araçl
 ---
 
 ### 📊 GitHub İstatistiklerim
+
 <div align="center">
 
-  <img src="https://metrics.lecoq.io/Nurullah649?template=classic&config.timezone=Europe%2FIstanbul" alt="Nurullah's Metrics" />
+  <a href="https://github.com/Nurullah649">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nurullah649&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/Nurullah649">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullah649&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  </a>
+
+  <a href="https://github.com/Nurullah649">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurullah649&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+  </a>
 
 </div>
