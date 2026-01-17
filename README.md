@@ -55,13 +55,8 @@ Yazılım geliştirme sürecinde kullandığım diller, kütüphaneler ve araçl
 ---
 
 ### 📊 GitHub İstatistiklerim
-
 <div align="center">
 
-[![Nurullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurullah649&show_icons=true&theme=radical&hide_border=true&count_private=true&t=1)](https://github.com/Nurullah649)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullah649&layout=compact&theme=radical&hide_border=true&langs_count=8&t=1)](https://github.com/Nurullah649)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nurullah649&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&t=1)](https://github.com/Nurullah649)
+  <img src="https://metrics.lecoq.io/Nurullah649?template=classic&config.timezone=Europe%2FIstanbul" alt="Nurullah's Metrics" />
 
 </div>
