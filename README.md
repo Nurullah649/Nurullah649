@@ -57,7 +57,11 @@ Yazılım geliştirme sürecinde kullandığım diller, kütüphaneler ve araçl
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurullah649&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullah649&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurullah649&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+
+[![Nurullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurullah649&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Nurullah649)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurullah649&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Nurullah649)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nurullah649&theme=radical&hide_border=true)](https://github.com/Nurullah649)
+
 </div>
